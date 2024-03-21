@@ -1,0 +1,28 @@
+{
+  "name": "autreprehenderit",
+  "description": "A full-featured JavaScript Textile parser",
+  "author": "DudleyProhaska",
+  "version": "1.0.0",
+  "main": "./lib/textile.js",
+  "bin": "./bin/textile",
+  "preferGlobal": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SchuylerPouros/autreprehenderit.git"
+  },
+  "homepage": "https://github.com/SchuylerPouros/autreprehenderit.git",
+  "bugs": {
+    "url": "https://github.com/SchuylerPouros/autreprehenderit.git/issues"
+  },
+  "keywords": [
+    "autem",
+    "markup",
+    "voluptatem"
+  ],
+  "tags": [
+    "textile",
+    "markup",
+    "html"
+  ],
+  "license": "MIT"
+}
